@@ -116,7 +116,7 @@ provider supports automatic port collision detection and resolution.
 - http://localhost:19999/netdata.conf
 - http://localhost:19999/
 
-![images](https://github.com/dlomov/sysadm-homeworks/tree/master/03-sysadmin-04-os/netdata.png)
+![image](https://github.com/dlomov/sysadm-homeworks/blob/master/03-sysadmin-04-os/netdata.PNG)
 
 4. Можно ли по выводу `dmesg` понять, осознает ли ОС, что загружена не на настоящем оборудовании, а на системе виртуализации?
 - Да, можно. У меня Vagrant в VirtualBox на Windows 10.
