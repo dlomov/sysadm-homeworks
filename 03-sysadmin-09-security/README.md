@@ -3,7 +3,7 @@
 1. Установите Bitwarden плагин для браузера. Зарегестрируйтесь и сохраните несколько паролей.
 2. Установите Google authenticator на мобильный телефон. Настройте вход в Bitwarden акаунт через Google authenticator OTP.
 
-![netmapl3:](https://github.com/dlomov/sysadm-homeworks/blob/master/03-sysadmin-09-security/2FA.png)
+![2FA:](https://github.com/dlomov/sysadm-homeworks/blob/master/03-sysadmin-09-security/2FA.PNG)
 
 3. Установите apache2/nginx, сгенерируйте самоподписанный сертификат, настройте тестовый сайт для работы по HTTPS.
 ### Установим nginx
@@ -234,7 +234,7 @@ tcpdump: listening on any, link-type LINUX_SLL (Linux cooked v1), capture size 2
 101 packets received by filter
 0 packets dropped by kernel
 ```
-![netmapl3:](https://github.com/dlomov/sysadm-homeworks/blob/master/03-sysadmin-09-security/dump.png)
+![dump:](https://github.com/dlomov/sysadm-homeworks/blob/master/03-sysadmin-09-security/dump.png)
  ---
 ## Задание для самостоятельной отработки (необязательно к выполнению)
 
