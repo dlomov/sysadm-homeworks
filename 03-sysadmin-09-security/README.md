@@ -234,7 +234,7 @@ tcpdump: listening on any, link-type LINUX_SLL (Linux cooked v1), capture size 2
 101 packets received by filter
 0 packets dropped by kernel
 ```
-![dump:](https://github.com/dlomov/sysadm-homeworks/blob/master/03-sysadmin-09-security/dump.png)
+![dump:](https://github.com/dlomov/sysadm-homeworks/blob/master/03-sysadmin-09-security/dump.PNG)
  ---
 ## Задание для самостоятельной отработки (необязательно к выполнению)
 
