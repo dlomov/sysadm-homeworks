@@ -137,7 +137,6 @@ HostMin:   100.64.0.1
 HostMax:   100.64.0.62
 Broadcast: 100.64.0.63
 Hosts/Net: 62                    Class A
-
 Needed size:  64 addresses.
 Used network: 100.64.0.0/26
 ```
